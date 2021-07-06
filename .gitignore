@@ -30,7 +30,6 @@
 .pub/
 /build/
 mysql_data/
-docker-compose.yaml
 
 # Symbolication related
 app.*.symbols
